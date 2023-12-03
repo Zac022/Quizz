@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{6A6DDDF1-C161-3889-B5B6-22C05E07278B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScriptableObject/Question.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ScriptableObject/Question.cs" Line="33" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Quizz App" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ScriptableObject" expanded="True">
+                  <Node name="Question.cs" selected="True" />
+                </Node>
+                <Node name="Utility" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7e807d75-bb94-4472-93cd-60f883ab72a7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
